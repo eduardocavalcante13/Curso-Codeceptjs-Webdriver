@@ -5,7 +5,7 @@
 ### instalar dependencias
 
 ```
-git clone https://github.com/Eduardo101323/Curso-Codeceptjs-Webdriver.git
+git clone https://github.com/eduardocavalcante13/Curso-Codeceptjs-Webdriver.git
 ```
 
 ```
